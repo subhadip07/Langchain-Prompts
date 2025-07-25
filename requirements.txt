@@ -3,6 +3,7 @@ langchain
 langchain-core
 ipykernel
 langchain-community
+streamlit
 
 langchain-ollama
 # Groq Integration
